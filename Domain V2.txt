@@ -1,0 +1,8 @@
+theme = true
+themedata = {
+    ThemeName = "Softworks Red",
+    BGColor1 = Color3.fromRGB(0,0,0),
+    BGColor2 = Color3.fromRGB(145,13,29),
+    LogoIcon = 0,
+}
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexsoftworks/Domain/main/source'),true))()
